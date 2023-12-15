@@ -9,7 +9,7 @@ Rosa Mª Bosch Máñez
 
 <h2>Descripción</h2> 
 
-La APP consiste en desarrollar una aplicación en Java con interfaz gráfica que permite gestionar archivos de texto hecho en Eclipse.
+La APP consiste en una aplicación de Java con interfaz gráfica que permite gestionar archivos de texto hecho en Eclipse.
 
 <h4>Funcionalidades</h4> 
 
